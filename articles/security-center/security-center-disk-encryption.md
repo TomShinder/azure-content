@@ -3,8 +3,8 @@
    description="This document helps you to encrypt an Azure Virtual Machine after receiving an alert from Azure Security Center."
    services="security-center"
    documentationCenter="na"
-   authors="YuriDio"
-   manager="swadhwa"
+   authors="Tomsh"
+   manager="rameshc"
    editor=""/>
 
 <tags
